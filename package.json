@@ -1,8 +1,8 @@
 {
-  "name": "particl-bitcore-lib",
+  "name": "ghost-bitcore-lib",
   "version": "0.16.0",
-  "description": "A pure and powerful JavaScript Particl library.",
-  "author": "Particl <hello@particl.io>",
+  "description": "A pure and powerful JavaScript Ghost library.",
+  "author": "Ghost <hello@ghostbymcafee.com>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "keywords": [
-    "particl",
+    "ghost",
     "transaction",
     "address",
     "p2p",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/particl/particl-bitcore-lib.git"
+    "url": "https://github.com/ghost-coin/ghost-bitcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
